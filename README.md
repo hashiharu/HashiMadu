@@ -9,6 +9,7 @@ Front-End Engineer
 * 🌍  I'm based in Japan
 * ✉️  You can contact me at [hashimadushika92@gmail.com](mailto:hashimadushika92@gmail.com)
 * 🚀  I'm currently working on [Resturant website](http://hashi1920.kilo.jp/colombo/)
+* 📂  My Portfolio: [https://hashi1920.kilo.jp/portfolio/](https://hashi1920.kilo.jp/portfolio/index.html)
 * 🧠  I'm learning React
 
 ### Skills
